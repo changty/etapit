@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meta charset="utf8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" content="telephone=no" name="format-detection">
+
+	  <title>ViLLE-peli</title>
+	  	<link rel="stylesheet" href="tyylit/sweetalert.css" type="text/css">
+
+	    <!-- Ladataan pelin apukirjastot ja itse peli -->
+	 	<script src="scripts/jquery-2.1.1.min.js"></script>
+	    <script src="scripts/jquery.counter.js"></script>
+	    <script src="scripts/howler.js"></script>
+	    <script src="scripts/sweetalert.min.js"></script>
+
+	    <!-- Kaikki pelin asetukset löytyvät täältä -->
+	    <script src="asetukset.js"></script>
+	    <script src="scripts/ladder.js"></script>
+
+	</head>
+
+	<body>
+	<!-- Peli lisätään automaattisesti tähän väliin -->
+	</body>
+
+	<!-- Käynnistää pelin oletusasetuksilla --> 	
+	<script>
+		// Tallennetaan peli julkiseen muuttujaan, jotta pelin kehittäminen on helpompaa
+		var ladder = null;
+		// Odottaa kunnes koko sivu on ladattu
+		$(document).ready(function() {
+			// Tämä käynnistää pelin
+			ladder = new Ladder(); 
+		});
+
+	</script>
+</html>

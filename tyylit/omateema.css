@@ -1,0 +1,140 @@
+.laddergame.game-arena {
+	/* Taustakuva pelille */
+	background: url(../kuvat/normal/uncolored_castle.png) no-repeat center center fixed;
+	/* Täytetään koko ruutu taustakuvalla */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/* Viisi erilaista tasoa, jotka arvotaan pelissä satunnaisesti */
+.laddergame .ground {
+	/* Kuvan polku */
+	background: url(../kuvat/normal/level2.svg) no-repeat bottom center;
+	/* Taustakuvan koko (täyttää koko annetun tilan) */
+	background-size: 80vw auto !important;
+
+}
+
+.laddergame .ground.level1 {
+	background: url(../kuvat/normal/level1.svg) no-repeat bottom center !important;
+	background-size: 80vw auto !important;
+
+}
+.laddergame .ground.level2 {
+	background: url(../kuvat/normal/level2.svg) no-repeat bottom center !important;
+	background-size: 80vw auto !important;
+
+}
+
+.laddergame .ground.level3 {
+	background: url(../kuvat/normal/level3.svg) no-repeat bottom center !important;
+	background-size: 80vw auto !important;
+
+}
+.laddergame .ground.level4 {
+	background: url(../kuvat/normal/level4.svg) no-repeat bottom center !important;
+	background-size: 80vw auto !important;
+
+}
+.laddergame .ground.level5 {
+	background: url(../kuvat/normal/level5.svg) no-repeat bottom center !important;
+	background-size: 80vw auto !important;
+
+}
+
+.laddergame .character {
+	background: url(../kuvat/normal/dude.svg) no-repeat;
+	background-size: 5vw 5vw;
+}
+
+
+.laddergame .option {
+	background: url(../kuvat/normal/sign_blue_big_2.svg) bottom center no-repeat;
+	background-size: 8vw auto;
+}
+
+.laddergame .optionLabel {
+	/*Fontti*/
+	text-align:center;
+	padding: 0vw .4vw;
+	color: #d3ad89;
+	font-family: Arial, Verdana, Tahoma;
+	font-weight: bold;
+	font-size:3.5vw;
+	text-shadow: 0px -0.3vw 0px #a06d3d;
+	line-height: 4vw;
+
+	/* värit */
+	background: #ae7640;
+	border-top: 0.5vw solid #bb844d;
+	border-radius: .2em;
+	border-bottom: 1px solid white;
+}
+
+
+.laddergame  .correct {
+	background: url(../kuvat/normal/sign_green_2.svg) bottom center no-repeat !important;
+	background-size: 8vw auto !important;
+}
+
+.laddergame  .incorrect {
+	background: url(../kuvat/normal/sign_red_2.svg) bottom center no-repeat !important;
+	background-size: 8vw auto !important;
+}
+
+.laddergame .score {
+	background: url(../kuvat/normal/score.svg) bottom left no-repeat;
+	background-size: 8vw auto;
+}
+
+.laddergame .currentScore {
+	text-align: left;
+    font-size: 4vw;
+	font-weight:bold;
+	letter-spacing: 220%;
+	font-family: "Luckiest Guy";
+	color: white;
+}
+
+.laddergame  .progressbar {
+	background: #ae7640;
+	border-top: 0.5vh solid  #bb844d;
+	border-radius:1em 1em 2em 2em;
+}
+
+.laddergame  .progressbar span {
+	background: #80be1f;
+	border-top: 0.5vh solid  #93db24;
+	border-radius: 1em 1em 2em 2em;
+}
+
+.laddergame  .question {
+	background: #acc0c1;
+	border-top: 0.8vh solid  #cfdada;
+	border-radius:1em 1em 1em 1em;
+	color: #fff;
+	text-align:center;
+	text-shadow: 0px -0.3vw 0px #a1b1b1;
+	font-family: Arial, Verdana, Tahoma;
+	padding: 3vmin 6vmin;
+	font-size: 6vmin;
+}
+
+
+.laddergame .health {
+	width: 4.2vmin;
+	height: 4vmin;
+	background: url(../kuvat/normal/health.svg) no-repeat;
+	background-size: 4vmin auto;
+	float:left;
+	display: inline;
+}
+
+
+
+.laddergame .healthUsed {
+	background: url(../kuvat/normal/health_used.svg) no-repeat;
+	background-size: 4vmin auto !important;
+}
