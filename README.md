@@ -7,8 +7,8 @@ eTapit-hankkeen ViLLE-tehtävä.
 [Värivalitsin](http://www.w3schools.com/colors/colors_picker.asp)   
 
 ## Sovelluksia
-[Inkscape](https://inkscape.org/en/download/)  
-[Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)   
+[Inkscape - Vektorigrafiikan editointiin](https://inkscape.org/en/download/)  
+[Notepad++ - Koodieditori](https://notepad-plus-plus.org/download/v6.9.2.html)   
 
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
