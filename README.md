@@ -22,7 +22,10 @@ eTapit-hankkeen ViLLE-peli.
 * Päivitä selaimen näkymää **F5** painikkeella ja ihastele muutoksia!
 * **Voit myös käyttää selaimen Kehittäjäntyökaluja** helpompaan editointiin. Chromessa ja Firefoxissa saa kehittäjäjn työkalut (Developer tools) näkyviin painamalla **F12**. Tällä työkalulla voi kokeilla, miltä tyylimuutokset näyttävät, jonka jälkeen ne voi lisätä omateema.css -tiedostoon.   
 * [Kehittäjän työkalujen käyttäminen suomeksi 1](https://corellia.fi/selain-kehittajan-tyokaluna-osa-1/)
-* [Kehittäjän työkalujen käyttäminen suomeksi 2](https://corellia.fi/selain-kehittajan-tyokaluna-osa-2/)
+* [Kehittäjän työkalujen käyttäminen suomeksi 2](https://corellia.fi/selain-kehittajan-tyokaluna-osa-2/)  
+
+Alla olevassa kuvassa on merkitty pelkästään CSS-tyylitellyt pelin elementit.   
+![CSS:llä muokattavat kohdat](https://cdn.rawgit.com/changty/etapit/master/esikatselu3.png)    
 
 
 ## Hyviä linkkejä 
