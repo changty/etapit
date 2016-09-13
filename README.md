@@ -1,2 +1,2 @@
-# etapit
+# ViLLE eTapit
 eTapit-hankkeen ViLLE-tehtävä. 
