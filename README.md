@@ -6,6 +6,10 @@ eTapit-hankkeen ViLLE-tehtävä.
 [W3Schools Paljon esimerkkejä CSS:n käytöstä](http://www.w3schools.com/css/)  
 [Värivalitsin](http://www.w3schools.com/colors/colors_picker.asp)   
 
+## Sovelluksia
+[Inkscape](https://inkscape.org/en/download/)  
+[Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)   
+
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
 
