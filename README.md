@@ -1,5 +1,6 @@
 # ViLLE eTapit
 eTapit-hankkeen ViLLE-peli. 
+![eTapit ViLLE-peli](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
 * Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto.   
@@ -9,6 +10,9 @@ eTapit-hankkeen ViLLE-peli.
 * Muokkaa kuvat/normal -kansion SVG-tiedostoja **Inkscapella**. Tallenna kuvat ja päivitä selaimen näkymää. Muutokset näkyvät heti. 
 ** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia.
 * [Opetustuubi Inkscapen käyttäminen - Youtube](https://www.youtube.com/playlist?list=PLDpsi-eI0SgJv_syw26feTg7BP2AL01jT) 
+
+![Pelin kuvat](https://cdn.rawgit.com/changty/etapit/master/esikatselu.png)    
+
 
 ## Tyylitiedoston muokkaaminen (CSS) 
 * Seuraa ohjeita edellisestä kohdasta index.html -tiedoston avaamiseen asti
