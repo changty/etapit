@@ -29,6 +29,9 @@ eTapit-hankkeen ViLLE-peli.
 [Inkscape - Vektorigrafiikan editointiin](https://inkscape.org/en/download/)  
 [Notepad++ - Koodieditori](https://notepad-plus-plus.org/download/v6.9.2.html)   
 
+## Valmiin sovelluksen jakaminen
+Paketoi oppilaan tuotos ZIP-tiedostoksi ja tallenna se esimerkiksi Onedriveen. Lähetä minulle sähköpostiin ([emakur@utu.fi](mailto:emakur@utu.fi)) linkki ZIP-tiedostoon tai lisää koko tiedosto liitteeksi.
+
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
 
