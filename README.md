@@ -38,7 +38,10 @@ Alla olevassa kuvassa on merkitty pelkästään CSS-tyylitellyt pelin elementit.
 [Notepad++ - Koodieditori](https://notepad-plus-plus.org/download/v6.9.2.html)   
 
 ## Valmiin sovelluksen jakaminen
-Paketoi oppilaan tuotos ZIP-tiedostoksi ja tallenna se esimerkiksi Onedriveen. Lähetä minulle sähköpostiin ([emakur@utu.fi](mailto:emakur@utu.fi)) linkki ZIP-tiedostoon tai lisää koko tiedosto liitteeksi. Laita sähköpostiin myös pelintekijän nimi ja saatesanoja, jos tekijä haluaa pelistä jotain kertoa. Saat paluupostina linkin oppilaan tuotokseen, joka on julkisesti kaikkien nähtävillä. Linkki tulee myös eTapit blogiin. 
+Paketoi oppilaan tuotos ZIP-tiedostoksi ja tallenna se esimerkiksi Onedriveen. Lähetä minulle sähköpostiin ([emakur@utu.fi](mailto:emakur@utu.fi)) linkki ZIP-tiedostoon tai lisää koko tiedosto liitteeksi. Laita sähköpostiin myös pelintekijän nimi ja saatesanoja, jos tekijä haluaa pelistä jotain kertoa. Saat paluupostina linkin oppilaan tuotokseen, joka on julkisesti kaikkien nähtävillä. Linkki tulee myös eTapit blogiin.  
+
+Loistavat teemat voidaan oppilaan luvalla julkaista myös ViLLEssä tuhansien opettajien ja oppilaiden iloksi. 
+
 
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
