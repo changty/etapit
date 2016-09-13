@@ -11,6 +11,7 @@ eTapit-hankkeen ViLLE-peli.
 * [Opetustuubi Inkscapen käyttäminen - Youtube](https://www.youtube.com/playlist?list=PLDpsi-eI0SgJv_syw26feTg7BP2AL01jT) 
 
 ## Tyylitiedoston muokkaaminen (CSS) 
+* Seuraa ohjeita edellisestä kohdasta index.html -tiedoston avaamiseen asti
 * Avaa omateema.css -tiedosto Notepad++ -sovelluksella. 
 * Etsi kohta, jota haluat editoida. Tyylitiedostoon on lisätty kommentit helpottamaan oikean kohdan löytämistä. 
 * Tallenna muutokset 
@@ -30,7 +31,7 @@ eTapit-hankkeen ViLLE-peli.
 [Notepad++ - Koodieditori](https://notepad-plus-plus.org/download/v6.9.2.html)   
 
 ## Valmiin sovelluksen jakaminen
-Paketoi oppilaan tuotos ZIP-tiedostoksi ja tallenna se esimerkiksi Onedriveen. Lähetä minulle sähköpostiin ([emakur@utu.fi](mailto:emakur@utu.fi)) linkki ZIP-tiedostoon tai lisää koko tiedosto liitteeksi.
+Paketoi oppilaan tuotos ZIP-tiedostoksi ja tallenna se esimerkiksi Onedriveen. Lähetä minulle sähköpostiin ([emakur@utu.fi](mailto:emakur@utu.fi)) linkki ZIP-tiedostoon tai lisää koko tiedosto liitteeksi. Laita sähköpostiin myös pelintekijän nimi ja saatesanoja, jos tekijä haluaa pelistä jotain kertoa. Saat paluupostina linkin oppilaan tuotokseen, joka on julkisesti kaikkien nähtävillä. Linkki tulee myös eTapit blogiin. 
 
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
