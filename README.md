@@ -2,9 +2,9 @@
 eTapit-hankkeen ViLLE-tehtävä. 
 
 ## Hyviä linkkejä 
-[CSS3 "Cheat Sheet" Tärkeimmät CSS-komennot](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
-[W3Schools Paljon esimerkkejä](http://www.w3schools.com/css/)
-[Värivalitsin](http://www.w3schools.com/colors/colors_picker.asp) 
+[CSS3 "Cheat Sheet" Tärkeimmät CSS-komennot](http://www.lesliefranke.com/files/reference/csscheatsheet.html)  
+[W3Schools Paljon esimerkkejä](http://www.w3schools.com/css/)  
+[Värivalitsin](http://www.w3schools.com/colors/colors_picker.asp)   
 
 ## Ota yhteyttä 
 [emakur@utu.fi](mailto:emakur@utu.fi)
