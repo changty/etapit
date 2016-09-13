@@ -2,6 +2,7 @@
 eTapit-hankkeen ViLLE-tehtävä. 
 
 ## Hakemistorakenne 
+```
 .
 +-- index.html - Kokoaa yhteen muut, peli käynnistyy tästä
 +-- asetukset.js - Pelin kysymykset, elämät ja pisteet
@@ -35,10 +36,4 @@ eTapit-hankkeen ViLLE-tehtävä.
 +-- tyylit - CSS-tyylitiedostot
 |   +-- omateema.css - Siistitty CSS-tiedosto, josta löytyy helposti tärkeimmät kohdat
 |   +-- perusteema.css - Kaikki muut tarpeelliset asetukset, jotta peli näyttää oikealta
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
+```
