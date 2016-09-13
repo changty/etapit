@@ -15,6 +15,9 @@ eTapit-hankkeen ViLLE-peli.
 * Tallenna muutokset 
 * Päivitä selaimen näkymää **F5** painikkeella ja ihastele muutoksia!
 * **Voit myös käyttää selaimen Kehittäjäntyökaluja** helpompaan editointiin. Chromessa ja Firefoxissa saa kehittäjäjn työkalut (Developer tools) näkyviin painamalla **F12**. Tällä työkalulla voi kokeilla, miltä tyylimuutokset näyttävät, jonka jälkeen ne voi lisätä omateema.css -tiedostoon.   
+* [Kehittäjän työkalujen käyttäminen suomeksi 1](https://corellia.fi/selain-kehittajan-tyokaluna-osa-1/)
+* [Kehittäjän työkalujen käyttäminen suomeksi 2](https://corellia.fi/selain-kehittajan-tyokaluna-osa-2/)
+
 
 ## Hyviä linkkejä 
 [CSS3 "Cheat Sheet" Yleisimmät CSS-komennot](http://www.lesliefranke.com/files/reference/csscheatsheet.html)  
