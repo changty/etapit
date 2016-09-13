@@ -1,5 +1,20 @@
 # ViLLE eTapit
-eTapit-hankkeen ViLLE-tehtävä. 
+eTapit-hankkeen ViLLE-peli. 
+
+## Miten aloitan - Grafiikan muokkaaminen 
+* Paina oikean yläreunan vihreästä *Clone or download* napista. Lataa ZIP-tiedosto.   
+* Jaa tiedosto oppilaille esimerkiksi Onedrivessä  
+* Jokainen oppilas lataa itselleen oman kopion ZIP-tiedostosta ja purkaa sen tietokoneelle  
+* Avaa index.html-tiedosto Google Chrome tai Mozilla Firefox -selaimella. *Näkymä päivittyy F5 näppäimellä.* Tällöin myös peli alkaa alusta. *Päivittäminen lataa viimeisimmät oppilaan tekemät muutokset.*  
+* Muokkaa kuvat/normal -kansion SVG-tiedostoja *Inkscaplla*. Tallenna kuvat ja päivitä selaimen näkymää. Muutokset näkyvät heti. 
+** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia. 
+
+## Tyylitiedoston muokkaaminen (CSS) 
+* Avaa omateema.css -tiedosto Notepad++ -sovelluksella. 
+* Etsi kohta, jota haluat editoida. Tyylitiedostoon on lisätty kommentit helpottamaan oikean kohdan löytämistä. 
+* Tallenna muutokset 
+* Päivitä selaimen näkymää *F5* painikkeella ja ihastele muutoksia!
+* *Voit myös käyttää selaimen Kehittäjäntyökaluja* helpompaan editointiin. Chromessa ja Firefoxissa saa kehittäjäjn työkalut (Developer tools) näkyviin painamalla *F12*. Tällä työkalulla voi kokeilla, miltä tyylimuutokset näyttävät, jonka jälkeen ne voi lisätä omateema.css -tiedostoon.   
 
 ## Hyviä linkkejä 
 [CSS3 "Cheat Sheet" Yleisimmät CSS-komennot](http://www.lesliefranke.com/files/reference/csscheatsheet.html)  
