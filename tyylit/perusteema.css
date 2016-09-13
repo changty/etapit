@@ -102,74 +102,6 @@
 
 }
 
-/* characters for each option */
-.laddergame .dance0:after {
-	content: "";
-	display: block;
-	position: absolute;
-	left: 50%;
-	bottom: -15vw;
-	width: 5vw;
-	height: 5vw;
-	transform: translateX(-50%);
-	background: url(../kuvat/x.svg) no-repeat;
-	/*background: url(../kuvat/up.svg) no-repeat;*/
-
-	background-size: 100% 100%;
-	border-radius: 100%;
-	box-shadow: 0px 0px 1vw rgba(50,50,50, .8);
-}
-
-.laddergame .dance1:after {
-	content: " ";
-	display:block;
-	position: absolute;
-	left: 50%;
-	bottom: -15vw;
-	width: 5vw;
-	height: 5vw;
-	transform: translateX(-50%);
-	background: url(../kuvat/circle.svg) no-repeat;
-	/*background: url(../kuvat/left.svg) no-repeat;*/
-
-	background-size: 100% 100%;
-	box-shadow: 0px 0px 1vw rgba(50,50,50, .8);
-	border-radius: 100%;
-}
-.laddergame .dance2:after {
-	content: " ";
-	display:block;
-	position: absolute;
-	left: 50%;
-	bottom: -15vw;
-	width: 5vw;
-	height: 5vw;
-	transform: translateX(-50%);
-	background: url(../kuvat/triangle.svg) no-repeat;
-	/*background: url(../kuvat/down.svg) no-repeat;*/
-
-	background-size: 100% 100%;
-	box-shadow: 0px 0px 1vw rgba(50,50,50, .8);
-	border-radius: 100%;
-}
-.laddergame .dance3:after {
-	content: " ";
-	display:block;
-	position: absolute;
-	left: 50%;
-	bottom: -15vw;
-	width: 5vw;
-	height: 5vw;
-	transform: translateX(-50%);
-	background: url(../kuvat/square.svg) no-repeat;
-	/*background: url(../kuvat/right.svg) no-repeat;*/
-
-	background-size: 100% 100%;
-	box-shadow: 0px 0px 1vw rgba(50,50,50, .8);
-	opacity: 1;
-	border-radius: 100%;
-}
-
 .laddergame .score {
 	position: absolute;
 	top: 8vh;
@@ -260,38 +192,7 @@ text-shadow: 1px 1px 0 #9e9e9e,
 
 }
 
-.laddergame .play {
-	width: 8vw;
-	height: 8vw;
-	background: url(../kuvat/normal/play.svg)center center no-repeat;
-	background-size: 8vw auto;
-	position: absolute;
-	top: 10vh;
-	left: 50vw;
-	transform: translateX(-50%);
-	-webkit-transform: translateX(-50%);
-	z-index:1050;
-}
-
-.laddergame .playing {
-	/*background: url(../kuvat/play2.svg) !important;
-	background-size: 8vw auto !important; */
-	animation-name: pulsate;
-	animation-duration: 1.5s;
-	animation-iteration-count: infinite; 
-	animation-timing-function: ease-out;
-	-webkit-animation-name: pulsate;
-	-webkit-animation-duration: 1.5s;
-    -webkit-animation-iteration-count: infinite; 
-	-webkit-animation-timing-function: ease-out;
-
-}
-
 .laddergame .health {
-	width: 2vw;
-	height: 3vw;
-	background: url(../kuvat/normal/health.svg) no-repeat;
-	background-size: 2vw auto;
 	float:left;
 	display: inline;
 	margin-right: 0.2vw;
@@ -337,87 +238,6 @@ text-shadow: 1px 1px 0 #9e9e9e,
 	top: 8vh;
 }
 
-
-/* hi-res laptops and desktops */ 
-@media (min-width:1281px) {
-
-}
-
-@-webkit-keyframes pulsate {
-    0% {background-size: 7.5vw auto;}
-    5% {background-size: 7.7vw auto;}
-    17% {background-size: 6.5vw auto;}
-    26% {background-size: 5.8vw auto;}
-    33% {background-size: 7.7vw auto;}
-    47% {background-size: 5.9vw auto;}
-    55% {background-size: 6.4vw auto;}
-    59% {background-size: 5.5vw auto;}
-    63% {background-size: 7.5vw auto;}
-    70% {background-size: 7.4vw auto;}
-    76% {background-size: 7.5vw auto;}
-    82% {background-size: 5.9vw auto;}
-    88% {background-size: 6.4vw auto;}
-    92% {background-size: 7.5vw auto;}
-    100% {background-size: 6.5vw auto;}
-    100% {background-size: 7.4vw auto;}
-}
-
-@-moz-keyframes pulsate {
-    0% {background-size: 7.5vw auto;}
-    5% {background-size: 7.7vw auto;}
-    17% {background-size: 6.5vw auto;}
-    26% {background-size: 5.8vw auto;}
-    33% {background-size: 7.7vw auto;}
-    47% {background-size: 5.9vw auto;}
-    55% {background-size: 6.4vw auto;}
-    59% {background-size: 5.5vw auto;}
-    63% {background-size: 7.5vw auto;}
-    70% {background-size: 7.4vw auto;}
-    76% {background-size: 7.5vw auto;}
-    82% {background-size: 5.9vw auto;}
-    88% {background-size: 6.4vw auto;}
-    92% {background-size: 7.5vw auto;}
-    100% {background-size: 6.5vw auto;}
-    100% {background-size: 7.4vw auto;}
-}
-
-@-o-keyframes pulsate {
-    0% {background-size: 7.5vw auto;}
-    5% {background-size: 7.7vw auto;}
-    17% {background-size: 6.5vw auto;}
-    26% {background-size: 5.8vw auto;}
-    33% {background-size: 7.7vw auto;}
-    47% {background-size: 5.9vw auto;}
-    55% {background-size: 6.4vw auto;}
-    59% {background-size: 5.5vw auto;}
-    63% {background-size: 7.5vw auto;}
-    70% {background-size: 7.4vw auto;}
-    76% {background-size: 7.5vw auto;}
-    82% {background-size: 5.9vw auto;}
-    88% {background-size: 6.4vw auto;}
-    92% {background-size: 7.5vw auto;}
-    100% {background-size: 6.5vw auto;}
-    100% {background-size: 7.4vw auto;}
-}
-
-@keyframes pulsate {
-    0% {background-size: 7.5vw auto;}
-    5% {background-size: 7.7vw auto;}
-    17% {background-size: 6.5vw auto;}
-    26% {background-size: 5.8vw auto;}
-    33% {background-size: 7.7vw auto;}
-    47% {background-size: 5.9vw auto;}
-    55% {background-size: 6.4vw auto;}
-    59% {background-size: 5.5vw auto;}
-    63% {background-size: 7.5vw auto;}
-    70% {background-size: 7.4vw auto;}
-    76% {background-size: 7.5vw auto;}
-    82% {background-size: 5.9vw auto;}
-    88% {background-size: 6.4vw auto;}
-    92% {background-size: 7.5vw auto;}
-    100% {background-size: 6.5vw auto;}
-    100% {background-size: 7.4vw auto;}
-}
 
 @-webkit-keyframes jump {
   50% 	{ bottom: 28vw; }
