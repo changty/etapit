@@ -7,7 +7,8 @@ eTapit-hankkeen ViLLE-peli.
 * Jokainen oppilas lataa itselleen oman kopion ZIP-tiedostosta ja purkaa sen tietokoneelle  
 * Avaa index.html-tiedosto Google Chrome tai Mozilla Firefox -selaimella. **Näkymä päivittyy F5 näppäimellä.** Tällöin myös peli alkaa alusta. **Päivittäminen lataa viimeisimmät oppilaan tekemät muutokset.**  
 * Muokkaa kuvat/normal -kansion SVG-tiedostoja **Inkscapella**. Tallenna kuvat ja päivitä selaimen näkymää. Muutokset näkyvät heti. 
-** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia. 
+** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia.
+* [Opetustuubi Inkscapen käyttäminen - Youtube](https://www.youtube.com/playlist?list=PLDpsi-eI0SgJv_syw26feTg7BP2AL01jT) 
 
 ## Tyylitiedoston muokkaaminen (CSS) 
 * Avaa omateema.css -tiedosto Notepad++ -sovelluksella. 
