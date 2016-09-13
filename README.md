@@ -3,7 +3,7 @@ eTapit-hankkeen ViLLE-peli.
 ![eTapit ViLLE-peli](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
-* Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto.   
+* Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto.[Latauslinkki](https://cdn.rawgit.com/changty/etapit/master/lataa.png)      
 * Jaa tiedosto oppilaille esimerkiksi Onedrivessä  
 * Jokainen oppilas lataa itselleen oman kopion ZIP-tiedostosta ja purkaa sen tietokoneelle  
 * Avaa index.html-tiedosto Google Chrome tai Mozilla Firefox -selaimella. **Näkymä päivittyy F5 näppäimellä.** Tällöin myös peli alkaa alusta. **Päivittäminen lataa viimeisimmät oppilaan tekemät muutokset.**  
