@@ -1,6 +1,6 @@
 # ViLLE eTapit
 eTapit-hankkeen ViLLE-peli. 
-<img src="https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png" alt="ViLLE-peli, tikkaat" width="300")  
+![ViLLE-peli, tikkaat](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
 * Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto. ![Latauslinkki](https://cdn.rawgit.com/changty/etapit/master/lataa.png)      
@@ -24,8 +24,8 @@ eTapit-hankkeen ViLLE-peli.
 * [Kehittäjän työkalujen käyttäminen suomeksi 1](https://corellia.fi/selain-kehittajan-tyokaluna-osa-1/)
 * [Kehittäjän työkalujen käyttäminen suomeksi 2](https://corellia.fi/selain-kehittajan-tyokaluna-osa-2/)  
 
-Alla olevassa kuvassa on merkitty pelkästään CSS-tyylitellyt pelin elementit.   
-![CSS:llä muokattavat kohdat](https://cdn.rawgit.com/changty/etapit/master/esikatselu3.png)    
+Alla olevassa kuvassa on merkitty pelkästään CSS-tyylitellyt pelin elementit ja elementtien CSS-luokkien nimet.   
+![CSS:llä muokattavat kohdat](https://cdn.rawgit.com/changty/etapit/master/luokat.png)    
 
 
 ## Hyviä linkkejä 
