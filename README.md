@@ -1,5 +1,6 @@
 # ViLLE eTapit
 eTapit-hankkeen ViLLE-peli: "Tikaspeli"
+[Testaa peliä](https://changty.github.io/index.html)  
 ![ViLLE-peli, tikkaat](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
