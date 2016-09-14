@@ -1,6 +1,6 @@
 # ViLLE eTapit
 eTapit-hankkeen ViLLE-peli. 
-![eTapit ViLLE-peli](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
+<img src="https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png" alt="ViLLE-peli, tikkaat" width="300")  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
 * Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto. ![Latauslinkki](https://cdn.rawgit.com/changty/etapit/master/lataa.png)      
