@@ -11,6 +11,7 @@ eTapit-hankkeen ViLLE-peli: "Tikaspeli"
 * Avaa index.html-tiedosto Google Chrome tai Mozilla Firefox -selaimella. **Näkymä päivittyy F5 näppäimellä.** Tällöin myös peli alkaa alusta. **Päivittäminen lataa viimeisimmät oppilaan tekemät muutokset.**  
 * Muokkaa kuvat/normal -kansion SVG-tiedostoja **Inkscapella**. Tallenna kuvat ja päivitä selaimen näkymää. Muutokset näkyvät heti. 
 ** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia.
+* [Valmista vektorigrafiikkaa, jota yhdistelemällä saa helposti oman tyylin - Kenny.nl](http://kenney.nl/assets)
 * [Opetustuubi Inkscapen käyttäminen - Youtube](https://www.youtube.com/playlist?list=PLDpsi-eI0SgJv_syw26feTg7BP2AL01jT) 
 
 ![Pelin kuvat](https://cdn.rawgit.com/changty/etapit/master/esikatselu.png)    
