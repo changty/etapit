@@ -3,9 +3,9 @@ eTapit-hankkeen ViLLE-peli: "Tikaspeli"
 ![ViLLE-peli, tikkaat](https://cdn.rawgit.com/changty/etapit/master/esikatselu2.png)  
 
 ## Miten aloitan - Grafiikan muokkaaminen 
-* Paina oikean yläreunan vihreästä **Clone or download** napista. Lataa ZIP-tiedosto. ![Latauslinkki](https://cdn.rawgit.com/changty/etapit/master/lataa.png)      
+* [Lataa ZIP-tiedosto tästä linkistä](https://github.com/changty/etapit/archive/master.zip)  
 * Jaa tiedosto oppilaille esimerkiksi Onedrivessä  
-* Jokainen oppilas lataa itselleen oman kopion ZIP-tiedostosta ja purkaa sen tietokoneelle  
+* Jokainen oppilas lataa itselleen oman kopion ZIP-tiedostosta ja purkaa sen tietokoneelle. Purkaminen onnistuu Windowsissa painamalla tiedostoa hiiren oikealla korvalla ja valitsemalla **Pura kaikki**     
 * Avaa index.html-tiedosto Google Chrome tai Mozilla Firefox -selaimella. **Näkymä päivittyy F5 näppäimellä.** Tällöin myös peli alkaa alusta. **Päivittäminen lataa viimeisimmät oppilaan tekemät muutokset.**  
 * Muokkaa kuvat/normal -kansion SVG-tiedostoja **Inkscapella**. Tallenna kuvat ja päivitä selaimen näkymää. Muutokset näkyvät heti. 
 ** Pidä kuvan koko samana, jotta vältytään tyyliongelmilta. Kuvasuhteen tai kuvan koon muuttaminen saattaa vaatia CSS-muutoksia.
