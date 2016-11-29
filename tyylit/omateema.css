@@ -34,11 +34,11 @@
 /* Kysymyksen tausta ja fontti */ 
 .laddergame  .question {
 	background: #acc0c1; /* Taustaväri */
-	border-top: 0.8vh solid  #cfdada; /* Yläreuna (paksuus, tyyli, väri) */
-	border-radius:1em 1em 1em 1em; /* Kulmien pyöristys, Ylävasen, yläoikea, alaoikea, alavasen */
+	border-top: 10px solid  #cfdada; /* Yläreuna (paksuus, tyyli, väri) */
+	border-radius:15px 15px 15px 15px; /* Kulmien pyöristys, Ylävasen, yläoikea, alaoikea, alavasen */
 	color: #fff;  /* Tekstin väri */
 	text-align:center;  /* Tekstin asemointi (left, center, right) */
-	text-shadow: 0px -0.3vw 0px #a1b1b1; /* tekstin varjostus */
+	text-shadow: 0px -5px 0px #a1b1b1; /* tekstin varjostus */
 	font-family: Arial, Verdana, Tahoma; /* Fontin nimi */
 	padding: 3vmin 6vmin; /* Tekstin ympärillä oleva tila */
 	font-size: 6vmin; /* Fonttikoko */
